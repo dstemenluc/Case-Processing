@@ -4,13 +4,14 @@ Black,
 Hispanic,
 18-25,0.6
 26-25,0.3
+,
 Felony,28.4
-Sex,19.6
-Weapons,
-Property,-5
-Drugs,
-DUI,
-Other,0.2
+Sex Offense,19.6
+Weapon Offense,
+Property Offense,-5
+Drug Offense,
+DUI Offense,
+Other Offense,0.2
 Number of Charges,2.1
 ,
 Number of Judges,14.5
