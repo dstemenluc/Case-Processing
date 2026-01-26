@@ -1,20 +1,20 @@
-﻿Factor,Felony,Misdemeanor1,Misdemeanor
-Male,-2.1,,
-Black,2.3,2.3,2.3
-Hispanic,,2,2
-18-25,4,,
-26-25,,,
-,,,
-Sex Offense,8.4,,
-Weapon Offense,,3.9,3.9
-Property Offense,,,
-Drug Offense,,4.8,4.8
-DUI Offense,6.3,8.7,8.7
-Other Offense,-2.5,3.7,3.1
-Number of Charges,0.5,0.7,0.7
-,,,
-Number of Judges,7.4,7.4,7.4
-Number of Prosecutors,12.7,15.8,15.8
-Number of Defense Attorneys,8.9,4.1,4.1
-Number of Continuances,4.7,4.2,4.2
-Days Between Hearings,0.1,0.1,0.1
+﻿Factor,Felony,
+Male,-2.1,0
+Black,2.3,0
+Hispanic,,
+18-25,4,0
+26-25,,
+,,
+Sex Offense,8.4,0
+Weapon Offense,,
+Property Offense,,
+Drug Offense,,
+DUI Offense,6.3,0
+Other Offense,-2.5,0
+Number of Charges,0.5,0
+,,
+Number of Judges,7.4,0
+Number of Prosecutors,12.7,0
+Number of Defense Attorneys,8.9,0
+Number of Continuances,4.7,0
+Days Between Hearings,0.1,0
