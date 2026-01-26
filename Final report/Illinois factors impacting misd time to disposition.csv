@@ -1,16 +1,16 @@
-﻿Factor,Percent Change in Time to Disposition
-Male,-7.1
-Black,-9
-Hispanic,-10.4
-18-25,3.7
-26-25,
-,
-Weapon Offense,25.3
-Property Offense,10.5
-Drug Offense,
-DUI Offense,13.1
-Other Offense,20
-Number of Charges,5.7
-,
-Number of Continuances,9.5
-Days Between Hearings,0.3
+﻿Factor,Misdemeanor,
+Male,-7.1,0
+Black,-9,0
+Hispanic,-10.4,0
+18-25,3.7,0
+26-25,,
+,,
+Weapon Offense,25.3,0
+Property Offense,10.5,0
+Drug Offense,,
+DUI Offense,13.1,0
+Other Offense,20,0
+Number of Charges,5.7,0
+,,
+Number of Continuances,9.5,0
+Days Between Hearings,0.3,0
