@@ -1,0 +1,17 @@
+﻿Factor,Felony,Misdemeanor
+Male,31.2,7.6
+Black,30.5,-47.2
+Hispanic,48.4,-29.2
+18-25,,-22
+26-25,-13.8,-10.7
+,,
+Weapon Offense,-25.2,31.4
+Property Offense,,72
+Drug Offense,-49.7,
+DUI Offense,,84
+Other Offense,,67
+Number of Charges,15.3,39
+,,
+Number of Continuances,-9.1,9
+Days Between Hearings,3.1,1
+Days to Disposition,0.1,0.1
