@@ -1,20 +1,25 @@
-﻿Factor,Felony,
-Male,-2.1,0
-Black,2.3,0
+﻿Factor,Percent Change in Time to Disposition,Days Change in Time to Disposition
+Male,,
+Black,,
 Hispanic,,
-18-25,4,0
-26-25,,
+Age 18–25,3.56197088,11.25582798
+Age 26–35,2.531512052,7.999578086
+Prior Felony,-9.606696711,-30.35716161
+Prior Misdemeanor,-8.05687439,-25.45972307
 ,,
-Sex Offense,8.4,0
-Weapon Offense,,
-Property Offense,,
-Drug Offense,,
-DUI Offense,6.3,0
-Other Offense,-2.5,0
-Number of Charges,0.5,0
+Sex Case,16.88262031,53.34908018
+Weapon Case,,
+Property Case,,
+Drug Case,-5.25678935,-16.61145435
+DUI Case,10.73834717,33.93317707
+Other Case,,
+Traffic Case,,
+Charge Rank Severity,5.127109638,16.20166645
+Total Charges Filed,1.106072244,3.495188293
 ,,
-Number of Judges,7.4,0
-Number of Prosecutors,12.7,0
-Number of Defense Attorneys,8.9,0
-Number of Continuances,4.7,0
-Days Between Hearings,0.1,0
+Failure to Appear,62.74266094,198.2668086
+Avg. Time Between Events,2.122205164,6.706168317
+Continuances/Waived/Vacated,9.526900526,30.10500566
+Prosecutor Change,31.25870013,98.77749241
+Defense Attorney Change,14.45367844,45.67362386
+Judge Change,19.00555658,60.0575588
