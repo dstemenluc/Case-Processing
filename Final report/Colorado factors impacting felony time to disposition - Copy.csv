@@ -1,25 +1,25 @@
-﻿Factor,Percent Change in Time to Disposition,Days Change in Time to Disposition
-Male,,
-Black,,
-Hispanic,,
-Age 18–25,3.56197088,11.25582798
-Age 26–35,2.531512052,7.999578086
-Prior Felony,-9.606696711,-30.35716161
-Prior Misdemeanor,-8.05687439,-25.45972307
-,,
-Sex Case,16.88262031,53.34908018
-Weapon Case,,
-Property Case,,
-Drug Case,-5.25678935,-16.61145435
-DUI Case,10.73834717,33.93317707
-Other Case,,
-Traffic Case,,
-Charge Rank Severity,5.127109638,16.20166645
-Total Charges Filed,1.106072244,3.495188293
-,,
-Failure to Appear,62.74266094,198.2668086
-Avg. Time Between Events,2.122205164,6.706168317
-Continuances/Waived/Vacated,9.526900526,30.10500566
-Prosecutor Change,31.25870013,98.77749241
-Defense Attorney Change,14.45367844,45.67362386
-Judge Change,19.00555658,60.0575588
+﻿Factor,Percent Change in Time to Disposition,Days Change in Time to Disposition,
+Male,,,
+Black,,,
+Hispanic,,,
+Age 18–25,3.56197088,11.25582798,0
+Age 26–35,2.531512052,7.999578086,0
+Prior Felony,-9.606696711,-30.35716161,0
+Prior Misdemeanor,-8.05687439,-25.45972307,0
+,,,
+Sex Case,16.88262031,53.34908018,0
+Weapon Case,,,
+Property Case,,,
+Drug Case,-5.25678935,-16.61145435,0
+DUI Case,10.73834717,33.93317707,0
+Other Case,,,
+Traffic Case,,,
+Charge Rank Severity,5.127109638,16.20166645,0
+Total Charges Filed,1.106072244,3.495188293,0
+,,,
+Failure to Appear,62.74266094,198.2668086,0
+Avg. Time Between Events,2.122205164,6.706168317,0
+Continuances/Waived/Vacated,9.526900526,30.10500566,0
+Prosecutor Change,31.25870013,98.77749241,0
+Defense Attorney Change,14.45367844,45.67362386,0
+Judge Change,19.00555658,60.0575588,0
