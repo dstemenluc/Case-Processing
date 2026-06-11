@@ -1,5 +1,5 @@
 ﻿Factor,Percent Change in Time to Disposition,Days Change in Time to Disposition,
-Male,2.1,8,
+Male,2.1,8,0
 Black,,,
 Hispanic,,,
 Age 18–25,3.4,13,0
@@ -8,16 +8,16 @@ Prior Felony,-4.1,-15,0
 Prior Misdemeanor,-3.1,-11,0
 ,,,
 Weapon Case,6.6,25,0
-Property Case,3.2,12,
-Drug Case,,,0
+Property Case,3.2,12,0
+Drug Case,,,
 DUI Case,17.4,65,0
-Other Case,-24.9,-92,
+Other Case,-24.9,-92,0
 Charge Severity,7.2,27,0
 Total Charges Filed,0.7,3,0
 ,,,
 Failure to Appear,56.7,211,0
 Weeks Between Events,8.1,30,0
 Continuance,39.8,148,0
-Prosecutor Change,,,0
+Prosecutor Change,,,
 Defense Attorney Change,92.1,343,0
 Judge Change,54.2,202,0
