@@ -1,21 +1,35 @@
-﻿Factor,Felony,
-Male,77,0
-Black,,
-Hispanic,37.8,0
-18-25,-33.5,0
-26-25,,
-,,
-Sex Offense,,
-Weapon Offense,97,0
-Property Offense,86,0
-Drug Offense,90,0
-DUI Offense,92,0
-Other Offense,85,0
-Number of Charges,21,0
-,,
-Number of Judges,16.5,0
-Number of Prosecutors,-8.4,0
-Number of Defense Attorneys,-21.8,0
-Number of Continuances,3.1,0
-Days Between Hearings,,
-Months to Disposition,1,0
+﻿Factor,Percent Change in Time to Disposition,Days Change in Time to Disposition,
+91-180 days,-44,,0
+181-365 days,-41,,0
+1+ year,-41,,0
+,,,
+Male,-31,,0
+Black,26,,0
+Hispanic,-34,,0
+Age 18–25,-26,11.25582798,0
+Age 26–35,-21,7.999578086,0
+Prior Felony,-75,-30.35716161,0
+Prior Misdemeanor,-53,-25.45972307,0
+,,,
+Weapon Case,-51,,0
+Property Case,-57,,0
+Drug Case,,-16.61145435,
+DUI Case,-66,33.93317707,0
+Other Case,,,
+Charge Severity,-15,16.20166645,0
+,,,
+Failure to Appear,-18,198.2668086,0
+Weeks Between Events,3,6.706168317,0
+Continued/Waived/Vacated Events,13,30.10500566,0
+Prosecutor Change,-11,98.77749241,0
+Defense Attorney Change,-90,45.67362386,0
+Judge Change,-60,60.0575588,0
+,,,
+Average Felony Caseload,,,
+Average Continuance Rate,,,
+Average FTA Rate,,,
+Average Time Between Events,18,,0
+Average Prosecutor Change Rate,1,,0
+Average Def. Attny. Change Rate,,,
+Average Judge Change Rate,-2,,0
+Average Open Cases,,,
