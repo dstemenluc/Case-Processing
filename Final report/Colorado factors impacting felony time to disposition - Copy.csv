@@ -1,25 +1,24 @@
 ﻿Factor,Percent Change in Time to Disposition,Days Change in Time to Disposition,
 Male,,,
-Black,,,
-Hispanic,,,
-Age 18–25,3.56197088,11.25582798,0
-Age 26–35,2.531512052,7.999578086,0
-Prior Felony,-9.606696711,-30.35716161,0
-Prior Misdemeanor,-8.05687439,-25.45972307,0
+Black,6.6,,0
+Hispanic,4.6,,0
+Age 18–25,5.1,11.25582798,0
+Age 26–35,,,
+Prior Felony,-13.5,-30.35716161,0
+Prior Misdemeanor,-9.2,-25.45972307,0
 ,,,
-Sex Case,16.88262031,53.34908018,0
+Sex Case,24,53.34908018,0
 Weapon Case,,,
 Property Case,,,
-Drug Case,-5.25678935,-16.61145435,0
-DUI Case,10.73834717,33.93317707,0
-Other Case,,,
-Traffic Case,,,
-Charge Severity,5.127109638,16.20166645,0
-Total Charges Filed,1.106072244,3.495188293,0
+Drug Case,-4.4,-16.61145435,0
+DUI Case,18.2,33.93317707,0
+Other Case,7.9,,0
+Charge Severity,6.7,16.20166645,0
+Total Charges Filed,1.4,3.495188293,0
 ,,,
-Failure to Appear,62.74266094,198.2668086,0
-Weeks Between Events,2.122205164,6.706168317,0
-Continued/Waived/Vacated Events,9.526900526,30.10500566,0
-Prosecutor Change,31.25870013,98.77749241,0
-Defense Attorney Change,14.45367844,45.67362386,0
-Judge Change,19.00555658,60.0575588,0
+Failure to Appear,94.3,198.2668086,0
+Weeks Between Events,2.7,6.706168317,0
+Continued/Waived/Vacated Events,13.4,30.10500566,0
+Prosecutor Change,50.7,98.77749241,0
+Defense Attorney Change,21.4,45.67362386,0
+Judge Change,37.4,60.0575588,0
